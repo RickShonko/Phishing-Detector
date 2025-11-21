@@ -1,0 +1,157 @@
+[
+  {
+    "text": "URGENT: Your KRA PIN has been suspended due to unpaid taxes. Click http://kra-portal-ke.com/verify to reactivate immediately and avoid penalties of KES 50,000.",
+    "label": "Phishing",
+    "explanation": "Creates artificial urgency, uses a suspicious non-official domain, impersonates KRA (Kenya Revenue Authority), and threatens penalties to pressure immediate action."
+  },
+  {
+    "text": "Congratulations! You have won Ksh 50,000 from Safaricom Promotions. To claim your prize, send your MPesa PIN and ID number to 0712345678. Offer expires in 24 hours!",
+    "label": "Phishing",
+    "explanation": "Requests sensitive MPesa PIN and ID number, creates false urgency with expiration, impersonates Safaricom, and uses unofficial phone number."
+  },
+  {
+    "text": "HELB ALERT: Your loan disbursement of KES 45,000 is pending verification. Confirm your banking details here: http://helb-verify.co.ke/confirm within 48hrs or funds will be cancelled.",
+    "label": "Phishing",
+    "explanation": "Impersonates HELB (Higher Education Loans Board), uses unofficial domain, requests sensitive banking details, and creates false deadline pressure."
+  },
+  {
+    "text": "You have received Ksh 25,000 from JAMES MWANGI. To accept this MPesa payment, reply with your PIN. Transaction ID: PF89H2X4. Act fast!",
+    "label": "Phishing",
+    "explanation": "Requests MPesa PIN which legitimate services never ask for, creates urgency, and mimics MPesa message format but from unofficial sender."
+  },
+  {
+    "text": "GOVERNMENT OF KENYA: You are a selected beneficiary of the Presidential Hustler Fund. Download application form: http://bit.ly/hustler-apply. Limited slots available!",
+    "label": "Phishing",
+    "explanation": "Impersonates government entity, uses shortened URL to hide real destination, creates false scarcity with 'limited slots', and targets popular government program."
+  },
+  {
+    "text": "KCB BANK ALERT: Your account has been temporarily locked due to suspicious activity. Update your details immediately at http://kcb-secure-login.com or account will be closed.",
+    "label": "Phishing",
+    "explanation": "Impersonates KCB Bank, uses fear tactic about account closure, suspicious non-official domain, and pressures immediate action."
+  },
+  {
+    "text": "Job Opportunity! Earn KES 30,000 weekly working from home. No experience needed. WhatsApp +254712999888 to start immediately. Limited positions in Nairobi!",
+    "label": "Phishing",
+    "explanation": "Too-good-to-be-true earnings promise, no legitimate company details, uses WhatsApp for recruitment, creates false urgency with 'limited positions'."
+  },
+  {
+    "text": "NCBA Bank: Your loan application of KES 100,000 has been approved! Claim now by paying processing fee of KES 5,000 to MPesa Till 987654. Approval expires today.",
+    "label": "Phishing",
+    "explanation": "Advance fee fraud - requests upfront payment, creates urgency, impersonates NCBA Bank, and uses unofficial payment method."
+  },
+  {
+    "text": "Your Equity Bank ATM card has been blocked for security reasons. Call 0722-FAKE-NUM immediately with your PIN ready to unlock. This is urgent!",
+    "label": "Phishing",
+    "explanation": "Impersonates Equity Bank, requests PIN over phone which banks never do, creates panic with 'blocked card', uses unofficial contact number."
+  },
+  {
+    "text": "NTSA: Your driving license DL-123456 expires soon. Renew online and avoid Ksh 10,000 fine: http://ntsa-renewal.co.ke/pay. Penalty doubles after deadline!",
+    "label": "Phishing",
+    "explanation": "Impersonates NTSA (National Transport and Safety Authority), uses fear of fines, unofficial domain, and creates false urgency."
+  },
+  {
+    "text": "MPESA CUSTOMER CARE: System upgrade requires PIN reset. Reply with: OLD PIN-NEW PIN-ID NUMBER to 40404. Failure to comply will suspend your account.",
+    "label": "Phishing",
+    "explanation": "Requests highly sensitive information (PIN and ID), impersonates MPesa, uses fear of suspension, and no legitimate service requests PIN via SMS."
+  },
+  {
+    "text": "You won a VISA LOTTERY! USA Green Card approved. Pay registration fee KES 15,000 to MPesa 567890. Only 3 slots left for Kenya! Hurry!",
+    "label": "Phishing",
+    "explanation": "Classic lottery scam, advance fee fraud, creates false scarcity, too-good-to-be-true promise, unofficial payment method."
+  },
+  {
+    "text": "Safaricom: Your data bundle of 10GB has been depleted. Purchase more data by dialing *544# or visit www.safaricom.co.ke. Thank you for choosing Safaricom.",
+    "label": "Legitimate",
+    "explanation": "Uses official Safaricom USSD code (*544#), directs to official website, standard notification format, no suspicious requests."
+  },
+  {
+    "text": "KRA iTax Portal: Your monthly returns are due by 20th. File online at www.itax.kra.go.ke. For assistance, call official helpline 0711-099-099.",
+    "label": "Legitimate",
+    "explanation": "Uses official KRA domain (itax.kra.go.ke), provides legitimate helpline, standard reminder format, no urgent threats or suspicious links."
+  },
+  {
+    "text": "MPESA: You have received Ksh 3,500.00 from JOHN DOE 0722123456 on 15/11/2025 at 2:30PM. New M-PESA balance is Ksh 8,900.50. Transaction cost Ksh 0.00.",
+    "label": "Legitimate",
+    "explanation": "Standard MPesa receipt format with transaction details, balance information, no requests for action or sensitive information."
+  },
+  {
+    "text": "Your Equity Bank loan application is being processed. We will contact you within 5 working days. For inquiries, visit any Equity branch or call 0763-063-000.",
+    "label": "Legitimate",
+    "explanation": "Professional tone, provides official contact methods, no pressure or urgency, no requests for sensitive information, legitimate bank contact number."
+  },
+  {
+    "text": "NHIF Reminder: Your monthly contribution of KES 500 is due. Pay via MPesa Paybill 200222, Account: Your ID Number. Visit www.nhif.or.ke for details.",
+    "label": "Legitimate",
+    "explanation": "Uses official NHIF paybill number, official website domain, standard billing reminder, no suspicious links or urgent threats."
+  },
+  {
+    "text": "Dear customer, your Kenya Power token is 12345-67890-11121. Units: 50kWh. Amount paid: KES 1,000. For support call 97771 or visit www.kplc.co.ke.",
+    "label": "Legitimate",
+    "explanation": "Standard Kenya Power receipt format, provides token number and units, uses official contact and website, transactional information only."
+  },
+  {
+    "text": "Hi, tumeanzisha biashara ya electronics Nairobi CBD. Tuko na offers za TV, laptops na phones. Bei poa sana! Wasiliana 0722-BUSINESS. Tuko next to Nation Centre.",
+    "label": "Suspicious",
+    "explanation": "Informal business promotion in Sheng/Kiswahili, lacks official business details, but not requesting sensitive information or creating false urgency. Could be legitimate small business or scam."
+  },
+  {
+    "text": "Your order #KE-789012 from Jumia has been dispatched. Track at jumia.co.ke/track using code JM789012XY. Delivery in 2-3 days. Contact rider: 0700-123-456.",
+    "label": "Legitimate",
+    "explanation": "Standard e-commerce delivery notification, uses official Jumia domain, provides tracking code, professional format, no suspicious requests."
+  },
+  {
+    "text": "URGENT LOAN APPROVAL! Get up to KES 500,000 instantly. No collateral needed. Apply now: http://quickloan-ke.com. First 100 applicants get 0% interest!",
+    "label": "Suspicious",
+    "explanation": "Creates urgency and false scarcity, too-good-to-be-true terms (no collateral, 0% interest), uses non-official domain, but not directly requesting sensitive data yet."
+  },
+  {
+    "text": "Your Airtel line will be disconnected in 24 hours due to registration issues. Update details at http://airtel-update.net/verify or lose your number permanently!",
+    "label": "Phishing",
+    "explanation": "Impersonates Airtel, creates fear of service loss, uses unofficial domain (.net), threatens permanent disconnection to pressure immediate action."
+  },
+  {
+    "text": "FLASH SALE! iPhone 15 Pro Max KES 35,000 (Original price 180K). Limited stock at our Nairobi shop. MPesa deposit KES 10,000 to reserve. Call 0733-SELLER.",
+    "label": "Suspicious",
+    "explanation": "Unrealistic discount (80% off), requests upfront deposit, creates urgency with 'limited stock', vague business details, potential advance fee scam."
+  },
+  {
+    "text": "Your M-Shwari loan application has been approved for KES 5,000. Funds will be deposited to your account within 5 minutes. To check balance, dial *234#.",
+    "label": "Legitimate",
+    "explanation": "Standard M-Shwari loan approval format, uses official USSD code (*234#), no suspicious requests, professional banking language."
+  },
+  {
+    "text": "Jameni! Niko na connection ya betting tips guaranteed. Lipa KES 500 weekly, unaweza pata millions. Already helped 200+ people. WhatsApp 0712-BET-TIPS.",
+    "label": "Suspicious",
+    "explanation": "Uses Sheng casual language, promotes gambling schemes, requests payment, makes unrealistic profit promises, but not directly phishing credentials."
+  },
+  {
+    "text": "KENYA POWER: Your account 12-3456789 has arrears of KES 3,200. Pay via MPesa Paybill 888880, Account: your meter number. Disconnection notice sent.",
+    "label": "Legitimate",
+    "explanation": "Uses official Kenya Power paybill (888880), standard billing format, professional tone, legitimate payment instructions, no suspicious links."
+  },
+  {
+    "text": "COVID-19 VACCINE CERTIFICATE: Download your official vaccination certificate from Ministry of Health portal: http://vaccine-cert-kenya.com. Required for travel!",
+    "label": "Phishing",
+    "explanation": "Impersonates Ministry of Health, uses unofficial domain, exploits pandemic concerns, could be attempting to harvest personal/health data."
+  },
+  {
+    "text": "Your Standard Chartered Visa card ending 4567 was used for KES 12,000 at Amazon. If not you, call fraud line 0772-009-000 immediately. Keep your card details ready.",
+    "label": "Suspicious",
+    "explanation": "Could be legitimate fraud alert format, but requesting card details and using potential unofficial number makes it suspicious. Real banks don't request full details."
+  },
+  {
+    "text": "Work from home opportunity! Data entry jobs available. Earn KES 5,000 daily. Training provided free. Send CV to jobs@homeworkkenya.com. Serious applicants only.",
+    "label": "Suspicious",
+    "explanation": "Unrealistic daily earnings (150K/month), vague job description, 'too good to be true' promise, but uses email rather than requesting direct payment."
+  },
+  {
+    "text": "Your NSSF contributions have been updated. View statement at www.nssfkenya.co.ke using your ID number. For support, visit any Huduma Centre or call 0709-054-000.",
+    "label": "Legitimate",
+    "explanation": "Uses official NSSF website, legitimate government helpline, professional format, directs to official channels (Huduma Centre), no suspicious requests."
+  },
+  {
+    "text": "KCSE RESULTS 2024: Check your results by sending your index number to 22252. SMS cost KES 25. Results also available at www.knec.ac.ke. KNEC wishes you success!",
+    "label": "Legitimate",
+    "explanation": "Standard KNEC results notification format, uses official website and premium SMS number, transparent about cost, professional government communication."
+  }
+]
